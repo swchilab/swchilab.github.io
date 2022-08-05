@@ -1,4 +1,4 @@
-## Molecular and Computational Genomics
+## Molecular and Computational Genomics Laboratory
 
 You can use the [editor on GitHub](https://github.com/swchilab/swchilab.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
